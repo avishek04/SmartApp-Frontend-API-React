@@ -1,0 +1,22 @@
+.textBox {
+	border: 2px solid black;
+	margin: 5px;
+	width: 500px;
+	height: 30px
+}
+
+.btn {
+	border: 2px solid darkblue;
+	height: 30px;
+	width: 150px;
+	background-color: orange;
+	border-radius: 3px;
+	margin: 5px;
+}
+
+.formDiv {
+	background-color: hsl(57, 100%, 91%);
+	border-radius: 10px;
+	padding: 20px
+}
+
