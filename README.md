@@ -1,10 +1,22 @@
-Demo - https://youtu.be/2T2elqrZvuY
-
 # Getting Started with Create React App
+This project has session login feature to track the number of requests made by the user. It uses CLARIFIA's facial recognition API to locate the portrait in the image when the image URL is submitted and display it in the UI.  
+  
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
+  
+The backend(NodeJS) of the project is found [here](https://github.com/avishek04/SmartApp-Backend-API-NodeJS).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project Owner: Avishek Choudhury
 
-## Available Scripts
+## Demo
+https://github.com/user-attachments/assets/d838ad34-fafb-4f4b-9ac7-2a456e987a51
+
+## Tech Stack
+* React
+* Node.js
+* REST APIs
+* PostgreSQL
+
+## Running the program
 
 In the project directory, you can run:
 
@@ -22,23 +34,8 @@ Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-# Application preview
-
-## Home Page/ Login page
-
-<img width="1440" alt="Screenshot 2021-11-24 at 10 24 53 PM" src="https://user-images.githubusercontent.com/48808040/143282055-cc9f49eb-42c2-4b67-8b50-ac55634c0e87.png">
-
-## Registration Page
-
-<img width="1440" alt="Screenshot 2021-11-24 at 10 25 34 PM" src="https://user-images.githubusercontent.com/48808040/143282414-44de0f94-ada8-4e5b-b428-95c123fd7494.png">
-
-## Enter Image Link
-
-<img width="1440" alt="Screenshot 2021-11-24 at 10 26 16 PM" src="https://user-images.githubusercontent.com/48808040/143282517-85d032af-84af-44a1-8401-9f3e27f905c8.png">
-
-## See the result
-
-<img width="1440" alt="Screenshot 2021-11-24 at 10 26 49 PM" src="https://user-images.githubusercontent.com/48808040/143282943-ff6375ef-ecc2-4118-af10-0647757875b5.png">
-
+Your app is ready to be deployed!  
+  
+Thank you for visiting! 
+  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/avishekchoudhury/).
